@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+env/
+.conda/
+
+# Data files
+data/*.csv
+data/splits/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
